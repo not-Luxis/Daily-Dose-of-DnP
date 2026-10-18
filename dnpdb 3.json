@@ -1198,6 +1198,11 @@
           ],
           "30": [
             {
+              "occasion": "birthday",
+              "year": 1943,
+              "bdayboy": "bdayboy"
+            },
+            {
               "title": "example normal",
               "id": "E4WlUXrJgy4",
               "channel": "ExampleChannel",
